@@ -7,7 +7,7 @@ A simplie ascci animation in your terminal using python
 git clone https://github.com/nupsco/python-ascii-animation
 ```
 ```
-cd pypython-ascii-animation 
+cd python-ascii-animation 
 ```
 ```python 
 python main.py
