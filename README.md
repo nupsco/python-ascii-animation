@@ -1,14 +1,11 @@
 # python-ascii-animation
-A simplie ASCII animation in your terminal using python 
+A simple ASCII animation in your terminal using python 
 
-### Who to use :
+### How to use :
 
-```git
+```bash
 git clone https://github.com/nupsco/python-ascii-animation
-```
-```
-cd python-ascii-animation 
-```
-```python 
+cd python-ascii-animation
+pip install -r requirements.txt
 python main.py
 ```
